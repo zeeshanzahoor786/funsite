@@ -1,0 +1,22 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.pageTitle {
+background-color:  #ff4040;;
+width: 30%;
+margin: auto;
+font-size: large;
+margin-bottom: 20px;
+justify-content: center;
+align-items: center;
+text-align: center;
+font-family: 'Indie Flower', cursive;
+
+}
+@media (max-width: 1000px) {
+.pageTitle{
+  margin-top: 40px;
+}
+}

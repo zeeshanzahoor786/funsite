@@ -1,0 +1,43 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  background-color: #ff3b3b;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5vw;
+
+  
+  color: white;
+  z-index: 100;
+}
+.zee{
+  width: 100%;
+  margin-top:80px;
+text-transform: none;
+font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+
+ margin-left: 5px;
+
+z-index: 200;
+}
+.zee :hover{
+  color: rgb(255, 244, 88);
+}
+@media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vw;
+  }
+  .zee{
+    font-size: 10px;
+  }
+}
+@media (max-width: 500px) {
+.zee{
+  font-size: 10px;
+}
+}
