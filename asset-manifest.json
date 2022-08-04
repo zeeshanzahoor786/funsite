@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/funsite/static/css/main.d428627f.css",
+    "main.js": "/funsite/static/js/main.6ba27ebf.js",
+    "static/media/zee1.png": "/funsite/static/media/zee1.56ceeac7eea451e0a779.png",
+    "service-worker.js": "/funsite/service-worker.js",
+    "index.html": "/funsite/index.html",
+    "main.d428627f.css.map": "/funsite/static/css/main.d428627f.css.map",
+    "main.6ba27ebf.js.map": "/funsite/static/js/main.6ba27ebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d428627f.css",
+    "static/js/main.6ba27ebf.js"
+  ]
+}
